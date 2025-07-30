@@ -1,0 +1,4 @@
+/mnt/d/C_plus_plus/AirportRunwayScheduler/build/CMakeFiles/runway_gui.dir
+/mnt/d/C_plus_plus/AirportRunwayScheduler/build/CMakeFiles/edit_cache.dir
+/mnt/d/C_plus_plus/AirportRunwayScheduler/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/C_plus_plus/AirportRunwayScheduler/build/CMakeFiles/runway_gui_autogen.dir
