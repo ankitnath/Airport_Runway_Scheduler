@@ -2,6 +2,8 @@
 
 This project simulates an airport runway scheduling system in C++ using a priority queue to manage aircraft landings and takeoffs with different priorities. It features a Qt GUI that displays the scheduling process and runway assignments interactively.
 
+![Runway Scheduling Simulator](image/simulator_run.jpg)
+
 ## Features
 - Priority-based aircraft scheduling (landing/takeoff)
 - Multiple runways managed simultaneously
